@@ -1,0 +1,11 @@
+.totalcard {
+  display: inline-flex;
+  margin-top: 20px;
+}
+
+.card {
+  background-color: whitesmoke;
+}
+#cardtwo {
+  margin-left: 400px;
+}
